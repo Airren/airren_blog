@@ -14,5 +14,5 @@ comments: true
 ByteGopher
 
 <p style="text-align:right;">
-    —— <a href="http://www.zhihu.com/question/19687065">Html Test </a>
+    —— <a href="">Html Test </a>
 </p>

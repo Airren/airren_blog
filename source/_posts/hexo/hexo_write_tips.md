@@ -1,3 +1,36 @@
+---
+title: 「Hexo」Write Tips
+subtitle: "写hexo的小技巧"
+layout:     post
+date: 2020-07-29 01:09:53
+author:     "Airren"
+catalog:    true
+header-img: "post-bg-2015.jpg"
+tags:
+    - Hexo
+---
+
+
+
+#  Config
+## md conf
+
+```
+title: Hello Hexo！  
+layout:     post
+subtitle:   "hello word, welcome"
+date: 2020-07-26 01:09:53
+author:     "Airren"
+catalog:    true
+header-img: "post-bg-js-module.jpg"
+tags:
+    - Life
+
+```
+
+## _config.yml
+
+```yml
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -139,3 +172,47 @@ deploy:
     github: https://github.com/Airren/airren.github.io
     alios: git@hongkong:/home/git/blog.git
   branch: gh-pages
+
+index_generator:
+  per_page: 3 ##首頁默认10篇文章标题 如果值为0不分页
+archive_generator:
+  per_page: 10 ##归档页面默认10篇文章标题
+  yearly: true  ##生成年视图
+  monthly: true ##生成月视图
+tag_generator:
+  per_page: 10 ##标签分类页面默认10篇文章
+category_generator:
+   per_page: 10 ###分类页面默认10篇文章
+
+```
+
+
+# Hexo Write
+## Page
+```
+hexo new page --path about/me "About me"
+```
+```
+INFO  Created: ~/Desktop/ByteGopher/airren_blog/source/about/me.md
+```
+
+
+## Post
+```
+hexo new post -p web/https_tips "HTTPS Tips"
+```
+
+```
+INFO  Created: ~/Desktop/ByteGopher/airren_blog/source/_posts/web/https_tips.md
+```
+
+
+**reference：**
+
+https://xdlrt.github.io/2016/02/18/2016-02-18/
+https://www.lagou.com/lgeduarticle/40391.html
+https://juejin.im/post/5ab47e48f265da23805991dc
+https://blog.csdn.net/weixin_42646103/article/details/105181586?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+https://zhuanlan.zhihu.com/p/158678677
+https://oakland.github.io/2016/05/02/hexo-%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84post/
+https://www.jianshu.com/p/e20deec143b1
