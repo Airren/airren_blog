@@ -5,7 +5,7 @@ author: Airren
 catalog: true
 header-img: ''
 tags:
-  - GO
+  - Go
 p: go_basic/go_time
 date: 2020-08-06 00:54:12
 ---
