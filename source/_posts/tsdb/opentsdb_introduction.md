@@ -1,6 +1,6 @@
 ---
-title: 时序数据&时序数据库
-subtitle: ''
+title: 「TSDB」时序数据&时序数据库简介
+subtitle: '时序数据库'
 author: Airren
 catalog: true
 header-img: ''
@@ -42,3 +42,20 @@ date: 2020-08-06 00:24:42、
 
 ![image-20200806004226361](/Users/airren/Desktop/ByteGopher/airren_blog/source/_posts/tsdb/opentsdb_introduction/image-20200806004226361.png)
 
+
+
+## 时序数据基本概念
+
+一条时序数据是由多个DataPoint构成的。每个DataPoint包含以下几个方面
+
+- metric： 一般也叫metric name，是时序数据的指标名
+
+- tags: 一个或者多个tag组合，用户描述metric的不同维度。每个Tag由tagk&tagv组成。例如：一个请求的来源 host=10.20.178.23，dc=cn。tags标明数据的维度。
+- value： 表示对应的数值。例如：请求的latency 或者qps等。
+- timestamp： 时序数据的具体时间，可以是秒级或者毫秒级别的Unix时间戳。
+
+例如： `JVM_Heap_Memory_Usage_MB{host=127.0.0.1, instanceId=jvm01}`
+
+
+
+Downsampling
