@@ -1,5 +1,5 @@
 ---
-title: [LogStash] 同步MySQL数据到ES 
+title: 「LogStash」同步MySQL数据到ES 
 subtitle: 'LogStash同步MySQL数据到ES '
 author: Airren
 catalog: true

@@ -1,4 +1,14 @@
-
+---
+title: 「Git」.gitignore
+subtitle: ''
+author: Airren
+catalog: true
+header-img: ''
+tags:
+  - Git
+p: /git/git_ignore
+date: 2020-08-18 00:49:29
+---
 
 > https://www.jianshu.com/p/699ed86028c2
 >

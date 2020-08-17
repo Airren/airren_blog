@@ -1,5 +1,5 @@
 ---
-title: [LogStash] LogStash安装
+title: 「LogStash」LogStash安装
 subtitle: 'LogStash	的安装与使用'
 author: Airren
 catalog: true

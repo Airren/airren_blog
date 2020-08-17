@@ -1,13 +1,12 @@
 ---
-title: [ElasticSearch] ElasticSearch安装
+title: 「ElasticSearch」ElasticSearch安装
 subtitle: 'ElasticSearch的安装与使用'
 author: Airren
 catalog: true
 header-img: ''
 tags:
-  - ElasticSearch
-p: component/elasticsearch_install
-date: 2020-08-11 11:42:00
+  - null
+date: 2020-08-18 00:35:51
 ---
 
 
@@ -119,4 +118,5 @@ lmenezes/cerebro
 > ```
 >
 > 
+
 

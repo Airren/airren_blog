@@ -1,17 +1,14 @@
 ---
-title: [Bosun] 开源报警系统
+title: 「Bosun」开源报警系统
 subtitle: 'Bosun语法以及使用'
 author: Airren
 catalog: true
 header-img: ''
 tags:
-  - TSDB
-  - Bosun
-p: tsdb/bosun
-date: 2020-08-13 01:24:42
+  - null
+p: /tsdb/bosun
+date: 2020-08-18 00:43:44
 ---
-
-
 
 Bosun 报警，grafana 查询
 
