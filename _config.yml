@@ -200,7 +200,7 @@ theme: newlook
 deploy:
   type: git
   repo: 
-    # github: https://github.com/Airren/airren.github.io
+    github: https://github.com/Airren/airren.github.io
     alios: git@hongkong:/home/git/blog.git
   branch: gh-pages
   message: update CNAM

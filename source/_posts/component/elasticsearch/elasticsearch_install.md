@@ -29,7 +29,7 @@ docker pull elasticsearch:6.8.11  # https://hub.docker.com/ 版本查找
 docker images # 查看本地images
 ```
 
-![image-20200814135623418](elasticsearch_install/image-20200814135623418.png)
+![image-20200814135623418](./elasticsearch_install/image-20200814135623418.png)
 
 
 
@@ -37,13 +37,13 @@ docker images # 查看本地images
  docker run -d --name elasticserarch_1 -p 9200:9200 -p 9300:9300 elasticsearch:6.8.11
 ```
 
-![image-20200814141157795](elasticsearch_install/image-20200814141157795.png)
+![image-20200814141157795](./elasticsearch_install/image-20200814141157795.png)
 
 ```
 docker ps
 ```
 
-![image-20200814151424343](elasticsearch_install/image-20200814151424343.png)
+![image-20200814151424343](./elasticsearch_install/image-20200814151424343.png)
 
 
 
@@ -53,7 +53,7 @@ curl http://devbox:9200/
 
 
 
-![image-20200814151619819](elasticsearch_install/image-20200814151619819.png)
+![image-20200814151619819](./elasticsearch_install/image-20200814151619819.png)
 
 ## 2. docker 安装Cerebro
 
@@ -61,13 +61,13 @@ curl http://devbox:9200/
 docker search cerebro
 ```
 
-![image-20200817201934797](elasticsearch_install/image-20200817201934797.png)
+![image-20200817201934797](./elasticsearch_install/image-20200817201934797.png)
 
 ```sh
 docker pull lmenezes/cerebro
 ```
 
-![image-20200817202011324](elasticsearch_install/image-20200817202011324.png)
+![image-20200817202011324](./elasticsearch_install/image-20200817202011324.png)
 
 ```sh
 docker run -d -p 9002:9000 \
@@ -86,11 +86,11 @@ lmenezes/cerebro
 
 访问`http://ip:9002` 并配置集群
 
-![image-20200817202308776](elasticsearch_install/image-20200817202308776.png)
+![image-20200817202308776](./elasticsearch_install/image-20200817202308776.png)
 
 配置完成后点击 `connect`, 下图中已经建立好两个`Index`
 
-![image-20200817202411452](elasticsearch_install/image-20200817202411452.png)
+![image-20200817202411452](./elasticsearch_install/image-20200817202411452.png)
 
 
 
