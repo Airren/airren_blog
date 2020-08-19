@@ -1,5 +1,5 @@
 ---
-title: 「Kafka」Kafka安装
+title: 「Kafka」Kafka基础知识
 subtitle: 'Kafka基础知识'
 author: Airren
 catalog: true
