@@ -33,7 +33,7 @@ import (
 var (
 	count int64
 	wg    = sync.WaitGroup{}
-  ch    = make(chan int)
+    ch    = make(chan int)
 )
 
 func main() {
