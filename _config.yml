@@ -201,6 +201,6 @@ deploy:
   type: git
   repo: 
     # github: https://github.com/Airren/airren.github.io
-    alios: git@hongkong:/home/git/blog.git
+    alios: git@www.bytegopher.com:/home/git/blog.git
   branch: gh-pages
   message: update CNAM
