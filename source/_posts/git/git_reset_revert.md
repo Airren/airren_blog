@@ -1,5 +1,5 @@
 ---
-title: Git reset & revert
+title:「Git」 Git reset & revert
 subtitle: ''
 author: Airren
 catalog: true
