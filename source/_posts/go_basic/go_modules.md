@@ -359,7 +359,7 @@ google.golang.org/appengine v1.4.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7
 
 
 
-## 参考资料：
+## 参考资料
 
 > https://github.com/golang/go/wiki/Modules
 >
