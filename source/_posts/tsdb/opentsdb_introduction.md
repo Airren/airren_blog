@@ -40,7 +40,7 @@ date: 2020-08-06 00:24:42、
 
 [常见的时序数据库](https://db-engines.com/en/ranking/time+series+dbms) 
 
-![image-20200806004226361](/Users/airren/Desktop/ByteGopher/airren_blog/source/_posts/tsdb/opentsdb_introduction/image-20200806004226361.png)
+![image-20200806004226361](opentsdb_introduction/image-20200806004226361.png)
 
 
 
