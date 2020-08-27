@@ -1,3 +1,4 @@
 hexo clean
-hexo deploy
+nohup hexo deploy
+
 hexo s

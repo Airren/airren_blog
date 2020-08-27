@@ -14,7 +14,8 @@ date: 2020-08-28 00:11:32
 
 ### OmniGraffle
 
-![](https://cdn.macwk.com/public/uploads/_/originals/omnigraffle.png)
+<img src="software_production_list/omnigraffle.png" style="zoom:33%;" align=left />
+
 
 |说明|好用的绘图工具|
 | -------- | ------------------------------------------------------------ |
@@ -27,7 +28,8 @@ date: 2020-08-28 00:11:32
 ## 系统工具
 ### iStat Menus
 
-![](https://cdn.macwk.com/public/uploads/_/originals/istat-menus-1.png)
+<img src="software_production_list/istat-menus-1.png" style="zoom:33%" align=left />
+
 
 |说明|优秀的系统监控工具|
 | -------- | ------------------------------------------------------------ |
