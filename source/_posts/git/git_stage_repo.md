@@ -90,6 +90,24 @@ git init --bare bare_repo
 
 ### 多次commit合并为一个commit
 
+```sh
+git rebase -i <commitId> 
+```
+
+`commitId`是不需要被合并的一次commit， 是需要合并的commit的上一个commitId。
+
+
+
+### 修改commit信息
+
+修改历史commit信息：同上
+
+修改最新的一次commit的信息
+
+```sh
+git commit --amend
+```
+
 
 
 ### rebase和merge的区别
