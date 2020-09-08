@@ -805,3 +805,220 @@ To www.bytegopher.com:/home/git/blog.git
    0a83c05..ef7d734  HEAD -> master
 Branch 'master' set up to track remote branch 'master' from 'git@www.bytegopher.com:/home/git/blog.git'.
 INFO  Deploy done: git
+INFO  Start processing
+INFO  Path converted: /(.\/)?git_stage_repo\//g → /article/git/git_stage_repo/
+INFO  Path converted: /(.\/)?go_install_and_env\//g → /article/go_basic/go_install_and_env/
+INFO  Path converted: /(.\/)?graduated-travel\//g → /article/life/graduated-travel/
+INFO  Path converted: /(.\/)?hexo_create\//g → /article/hexo/hexo_create/
+INFO  Path converted: /(.\/)?married\//g → /article/life/married/
+INFO  Path converted: /(.\/)?user\//g → /article/linux/user/
+INFO  Path converted: /(.\/)?software_production_list\//g → /article/software/software_production_list/
+INFO  Path converted: /(.\/)?Dash\//g → /article/software/Dash/
+INFO  Path converted: /(.\/)?bosun\//g → /article/tsdb/bosun/
+INFO  Path converted: /(.\/)?nginx_tips\//g → /article/tips/nginx_tips/
+INFO  Path converted: /(.\/)?http_request_method\//g → /article/web/http_request_method/
+INFO  Path converted: /(.\/)?opentsdb_introduction\//g → /article/tsdb/opentsdb_introduction/
+INFO  Path converted: /(.\/)?https_tips\//g → /article/web/https_tips/
+INFO  Path converted: /(.\/)?logstash_install\//g → /article/component/elasticsearch/logstash_install/
+INFO  Path converted: /(.\/)?elasticsearch_install\//g → /article/component/elasticsearch/elasticsearch_install/
+INFO  Path converted: /(.\/)?bson\//g → /article/component/mongo/bson/
+INFO  Path converted: /(.\/)?gin_overview\//g → /article/web/gin/gin_overview/
+INFO  Files loaded in 1.22 s
+INFO  Generated: tag-sitemap.xml
+INFO  Generated: sitemap.xsl
+INFO  Generated: post-sitemap.xml
+INFO  Generated: sitemap.xml
+INFO  Generated: page-sitemap.xml
+INFO  Generated: 404.html
+INFO  Generated: index.html
+INFO  Generated: archives/index.html
+INFO  Generated: archive/index.html
+INFO  Generated: tags/index.html
+INFO  Generated: about/index.html
+INFO  Generated: img/favicon.ico
+INFO  Generated: fonts/glyphicons-halflings-regular.ttf
+INFO  Generated: fonts/glyphicons-halflings-regular.woff2
+INFO  Generated: fonts/glyphicons-halflings-regular.eot
+INFO  Generated: fonts/glyphicons-halflings-regular.woff
+INFO  Generated: archives/2020/08/index.html
+INFO  Generated: page/3/index.html
+INFO  Generated: page/4/index.html
+INFO  Generated: archives/2020/07/index.html
+INFO  Generated: archives/archive/4/index.html
+INFO  Generated: archives/2020/09/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/Git/index.html
+INFO  Generated: tags/Go/index.html
+INFO  Generated: tags/Love/index.html
+INFO  Generated: tags/Life/index.html
+INFO  Generated: tags/MicroService/index.html
+INFO  Generated: tags/Tips/index.html
+INFO  Generated: tags/Hexo/index.html
+INFO  Generated: tags/Nginx/index.html
+INFO  Generated: tags/Alfred/index.html
+INFO  Generated: tags/Vim/index.html
+INFO  Generated: tags/SoftWare/index.html
+INFO  Generated: tags/Http/index.html
+INFO  Generated: tags/Hbase/index.html
+INFO  Generated: tags/TSDB/index.html
+INFO  Generated: tags/HTTPS/index.html
+INFO  Generated: tags/OpenTSDB/index.html
+INFO  Generated: tags/Mongo/index.html
+INFO  Generated: tags/Bson/index.html
+INFO  Generated: img/header/tag.jpg
+INFO  Generated: tags/ElasticSearch/index.html
+INFO  Generated: tags/LogStash/index.html
+INFO  Generated: archives/archive/2/index.html
+INFO  Generated: archives/archive/3/index.html
+INFO  Generated: img/header/404.jpg
+INFO  Generated: fonts/glyphicons-halflings-regular.svg
+INFO  Generated: archives/2020/index.html
+INFO  Generated: css/images/rocket.png
+INFO  Generated: js/hux-blog.js
+INFO  Generated: img/avatar/avatar.jpg
+INFO  Generated: css/highlight.css
+INFO  Generated: css/donate.css
+INFO  Generated: css/toc.css
+INFO  Generated: css/signature.css
+INFO  Generated: css/widget.css
+INFO  Generated: js/toc.js
+INFO  Generated: js/jquery.tagcloud.js
+INFO  Generated: js/hux-blog.min.js
+INFO  Generated: css/beantech.min.css
+INFO  Generated: js/totop.js
+INFO  Generated: css/beantech.css
+INFO  Generated: css/bootstrap.min.css
+INFO  Generated: css/hux-blog.min.css
+INFO  Generated: js/smoothscroll.js
+INFO  Generated: js/bootstrap.min.js
+INFO  Generated: js/jquery.min.js
+INFO  Generated: js/bootstrap.js
+INFO  Generated: css/bootstrap.css
+INFO  Generated: img/header/archive.jpg
+INFO  Generated: js/jquery.js
+INFO  Generated: js/jquery.nav.js
+INFO  Generated: css/archive.css
+INFO  Generated: css/rocket.css
+INFO  Generated: img/header/icon_wechat.png
+INFO  Generated: css/images/ironman.png
+INFO  Generated: article/software/software_production_list/index.html
+INFO  Generated: article/hexo/hello_hexo/post-bg-js-module.jpg
+INFO  Generated: article/go_basic/go_slice/index.html
+INFO  Generated: article/life/married/index.html
+INFO  Generated: article/tips/nginx_tips/index.html
+INFO  Generated: article/tsdb/opentsdb_introduction/image-20200806004226361.png
+INFO  Generated: archives/2020/archive/2/index.html
+INFO  Generated: archives/2020/08/archive/2/index.html
+INFO  Generated: article/git/git_reset_revert/index.html
+INFO  Generated: article/linux/user/index.html
+INFO  Generated: article/web/https_tips/qiniu_free_ssl.jpg
+INFO  Generated: article/micro_service/stateless_service/index.html
+INFO  Generated: img/signature/BeanTechSign-white.png
+INFO  Generated: article/tsdb/bosun/image-20200831201920566.png
+INFO  Generated: article/web/http_request_method/index.html
+INFO  Generated: article/tsdb/tsdb_argot/index.html
+INFO  Generated: article/go_basic/go_context/index.html
+INFO  Generated: article/go_basic/go_time/index.html
+INFO  Generated: article/go_basic/go_concurrency/index.html
+INFO  Generated: article/software/Dash/index.html
+INFO  Generated: article/git/git_stage_repo/index.html
+INFO  Generated: article/life/nice_day/index.html
+INFO  Generated: article/tsdb/hbase_introduction/index.html
+INFO  Generated: article/hexo/hexo_create/index.html
+INFO  Generated: article/go_basic/go_modules/index.html
+INFO  Generated: article/life/graduated-travel/index.html
+INFO  Generated: article/hexo/hexo_write_tips/index.html
+INFO  Generated: article/software/Alfred/index.html
+INFO  Generated: article/go_basic/go_install_and_env/index.html
+INFO  Generated: article/git/git_gitignore/index.html
+INFO  Generated: article/web/https_tips/index.html
+INFO  Generated: archives/2020/archive/3/index.html
+INFO  Generated: article/hexo/hello_hexo/index.html
+INFO  Generated: article/tsdb/opentsdb_introduction/index.html
+INFO  Generated: article/tips/image_tools/index.html
+INFO  Generated: article/hexo/hexo_write_tips/post-bg-2015.jpg
+INFO  Generated: archives/2020/08/archive/3/index.html
+INFO  Generated: article/tsdb/bosun/image-20200828162829110.png
+INFO  Generated: article/life/graduated-travel/qinghai_lake.jpg
+INFO  Generated: archives/2020/archive/4/index.html
+INFO  Generated: article/tips/vim_tips/index.html
+INFO  Generated: article/tsdb/bosun/index.html
+INFO  Generated: article/web/gin/gin_overview/image-20200821012841435.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200814151424343.png
+INFO  Generated: article/web/gin/gin_overview/gin_crystal_clear.jpg
+INFO  Generated: article/component/elasticsearch/logstash_install/image-20200816233030446.png
+INFO  Generated: article/life/graduated-travel/daban_mountain.jpg
+INFO  Generated: img/header/article_bg.jpg
+INFO  Generated: article/linux/user/image-20200809014520876.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200817201934797.png
+INFO  Generated: article/web/gin/gin_overview/image-20200821012704920.png
+INFO  Generated: article/software/software_production_list/istat-menus-1.png
+INFO  Generated: article/software/Dash/license.dash-license
+INFO  Generated: article/go_basic/go_install_and_env/image-20200821003314506.png
+INFO  Generated: article/software/software_production_list/omnigraffle.png
+INFO  Generated: article/go_basic/go_install_and_env/image-20200821003225583.png
+INFO  Generated: article/hexo/hexo_create/image-20200807012444173.png
+INFO  Generated: article/git/git_stage_repo/image-20200828010317289.png
+INFO  Generated: article/git/git_stage_repo/image-20200828011146041.png
+INFO  Generated: article/web/http_request_method/2012072810301161.png
+INFO  Generated: article/git/git_stage_repo/image-20200828014212687.png
+INFO  Generated: article/web/http_request_method/F7E193D6-3C08-4B97-BAF2-FF340DAA5C6E.jpg
+INFO  Generated: article/git/git_stage_repo/image-20200828010830831.png
+INFO  Generated: article/web/http_request_method/httpmessage.jpg
+INFO  Generated: article/web/https_tips/https_detection.jpg
+INFO  Generated: article/tsdb/bosun/image-20200831202225643.png
+INFO  Generated: article/git/git_stage_repo/image-20200826014410519.png
+INFO  Generated: article/tips/nginx_tips/image-20200809015025464.png
+INFO  Generated: article/web/gin/gin_overview/image-20200821005742232.png
+INFO  Generated: article/component/mongo/bson/index.html
+INFO  Generated: article/component/mysql/mysql-sync-to-es/index.html
+INFO  Generated: article/component/kafka/kafka_basic/index.html
+INFO  Generated: img/index/index_lake.jpg
+INFO  Generated: article/component/mongo/mongo_go_sdk/index.html
+INFO  Generated: article/component/kafka/kafka_install/index.html
+INFO  Generated: img/header/about.jpg
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200817202411452.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200814141157795.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200814112846425.png
+INFO  Generated: article/web/gin/gin_overview/index.html
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200817202011324.png
+INFO  Generated: article/component/elasticsearch/logstash_install/index.html
+INFO  Generated: article/web/gin/gin_overview/image-20200821012912106.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/index.html
+INFO  Generated: article/git/git_stage_repo/image-20200826011224617.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200817202308776.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200814151619819.png
+INFO  Generated: article/component/elasticsearch/elasticsearch_install/image-20200814135623418.png
+INFO  Generated: img/header/article.jpeg
+INFO  Generated: article/life/nice_day/image_dusk.jpg
+INFO  Generated: img/header/article.jpg
+INFO  Generated: img/header/home.jpg
+INFO  Generated: article/life/graduated-travel/jadeite_lake.png
+INFO  Generated: article/life/graduated-travel/graduated_travel.png
+INFO  Generated: img/header/home2.png
+INFO  Generated: article/life/married/image-20200827014051521.png
+INFO  Generated: article/life/married/image-20200827013118055.png
+INFO  Generated: article/life/married/image-20200827013304545.png
+INFO  Generated: article/life/married/image-20200827013534941.png
+INFO  176 files generated in 1.26 s
+INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+[master 35b0a14] update CNAM
+ 58 files changed, 5958 insertions(+), 1069 deletions(-)
+ create mode 100644 archives/2020/09/index.html
+ create mode 100644 article/go_basic/go_slice/index.html
+ create mode 100644 article/micro_service/stateless_service/index.html
+ create mode 100644 article/tsdb/bosun/image-20200828162829110.png
+ create mode 100644 article/tsdb/bosun/image-20200831201920566.png
+ create mode 100644 article/tsdb/bosun/image-20200831202225643.png
+ create mode 100644 tags/MicroService/index.html
+To https://github.com/Airren/airren.github.io
+   8b0dcb7..35b0a14  HEAD -> master
+Branch 'master' set up to track remote branch 'master' from 'https://github.com/Airren/airren.github.io'.
+On branch master
+nothing to commit, working tree clean
+To www.bytegopher.com:/home/git/blog.git
+   8b0dcb7..35b0a14  HEAD -> master
+Branch 'master' set up to track remote branch 'master' from 'git@www.bytegopher.com:/home/git/blog.git'.
+INFO  Deploy done: git

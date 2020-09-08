@@ -22,7 +22,7 @@ date: 2020-07-31 00:37:24
 
 `vi /etc/nginx/nginx.conf`
 
-```
+```sh
   server {
         listen       443 ssl http2 default_server;
         listen       [::]:443 ssl http2 default_server;
@@ -48,6 +48,13 @@ date: 2020-07-31 00:37:24
         error_page 500 502 503 504 /50x.html;
             location = /50x.html {
         }
+    }
+    
+    # 如果是http请求则自动转换为https
+    server {
+        listen 80;
+        server_name www.bytegopher.com;
+        rewrite ^(.*) https://$server_name$1 permanent;
     }
 ```
 
