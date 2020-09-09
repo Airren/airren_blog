@@ -82,7 +82,17 @@ git init --bare bare_repo
 
 
 
+### 切换branch
+
+切换本地的branch
+
+
+
+切换到远程branch 到本地
+
 ### 切换commit
+
+
 
 
 
@@ -105,7 +115,7 @@ git rebase -i <commitId>
 修改最新的一次commit的信息
 
 ```sh
-git commit --amend
+git commit --amend "message"
 ```
 
 

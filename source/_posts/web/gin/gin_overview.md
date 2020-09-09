@@ -1,5 +1,5 @@
 ---
-title: 「Gin」Gin概述
+title: 「Gin」Gin入门
 subtitle: ''
 author: Airren
 catalog: true
@@ -112,28 +112,4 @@ func Default() *Engine {
 }
 ```
 
-## 3. Gin的各种用法
-
-### 3.1 Gin支持的各种HTTP请求
-
-```go
-func main() {
-	// Creates a gin router with default middleware:
-	// logger and recovery (crash-free) middleware
-	router := gin.Default()
-
-	router.GET("/someGet", getting)
-	router.POST("/somePost", posting)
-	router.PUT("/somePut", putting)
-	router.DELETE("/someDelete", deleting)
-	router.PATCH("/somePatch", patching)             // 
-	router.HEAD("/someHead", head)                   //
-	router.OPTIONS("/someOptions", options)
-
-	// By default it serves on :8080 unless a
-	// PORT environment variable was defined.
-	router.Run()
-	// router.Run(":3000") for a hard coded port
-}
-```
 
